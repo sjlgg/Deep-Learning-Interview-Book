@@ -19,11 +19,7 @@
 - :pencil2: [面试经验](docs/面试经验.md)
 - :bulb: [面试技巧](docs/面试技巧.md)
 - :mega: [其它（计算机网络/Linux等）](docs/其它.md)
-- [2024年AI算法岗和开发岗求职群](https://mp.weixin.qq.com/s/sK_oSU1PmbUJ5ZGeMmY27A)
 
-
-
-![](docs/imgs/2024年AI求职群优惠券二维码.png)
 
 ![](docs/imgs/DLIB-Mindmap.png)
 
